@@ -1,4 +1,4 @@
-const dadosJson = require('./dados.json')
+const dadosJson = require('../dados.json')
 
 //MENOR VALOR DE FATURAMENTO DO MÊS ACIMA DE R$0,00
 let menorValorFat = 999999999
